@@ -21,5 +21,5 @@ After the file is uploaded, you will see it listed on the page. Click on the fil
 To search through the data, enter a search term in the search box. The search will be performed, and the rows that match the search term will be displayed.
 
 
-# Demo: https://habbit-tracker-kdnv.onrender.com/
+# Demo: https://csv-file-upload-znvq.onrender.com/
 I will be improving it soon for pagination and more cool features.
